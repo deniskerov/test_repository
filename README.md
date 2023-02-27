@@ -2,4 +2,4 @@
 
 ## for understand GIT
 
-
+текс на ПК
